@@ -27,4 +27,4 @@ PgUp, PgDn, Home, End to change Light Positions
 
 # License
 
-Check [the license](LICENSE.TXT) for more information. Keep in mind that some parts of this repository may have another license.
+Check LICENSE.TXT for more information. Keep in mind that some parts of this repository may have another license.
